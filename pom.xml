@@ -122,7 +122,7 @@
 		</dependency>
 
 
-		<!-- COMMONS -->
+		<!--- COMMONS --->
 		<dependency>
 			<groupId>commons-httpclient</groupId>
 			<artifactId>commons-httpclient</artifactId>
