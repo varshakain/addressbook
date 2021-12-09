@@ -18,7 +18,7 @@ Open [http://localhost:8080/](http://localhost:8080/)
 
 
 Importing in IntelliJ IDEA 14
-------------------------
+----------------------------
 These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
 
 To get the project up and running in IDEA, do:
@@ -46,7 +46,7 @@ To checkout and run the project in NetBeans, do:
 You should now have a GlassFish server running on localhost:8080 and a browser tab should also be automatically opened with this location
 
 Importing in Eclipse
---------------------
+----------------------
 These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
 
 To checkout and run the project in Eclipse, do:
