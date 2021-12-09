@@ -147,7 +147,7 @@
 			<version>1.9.4</version>
 		</dependency>
 
-		<!-- XML -->
+		<!--- XML --->
 		<dependency>
 			<groupId>com.sun.xml.security</groupId>
 			<artifactId>xml-security-impl</artifactId>
