@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 public class CaseInsensitiveComparator extends GenericComparator {
 
         private static final long serialVersionUID = -6836701171640412573L;
+        private static final long serialVersionUID1 = -6836701171640412573L;
         private static final Logger LOG =LoggerFactory.getLogger(CaseInsensitiveComparator.class); 
 
         /*
